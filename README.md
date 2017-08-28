@@ -4,7 +4,7 @@
 * Phone: 801-205-3157
 * E-mail: [donstringham@weber.edu](mailto://donstringham@weber.edu)
 * Classroom: SLCC BB 215
-* Class Times: Tuesday & Thursday 5:30 pm - 7:20 pm
+* Class Times: Monday & Wednesday 5:30 pm - 7:20 pm
 
 ### Textbook
 
@@ -15,7 +15,7 @@ There is NO specific text book for this class. I strongly suggest you purchase: 
 - [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/) for Windows
 - SSH for Mac or Linux
 - [PHPStorm](http://www.jetbrains.com/phpstorm/) IDE for your OS
-- [DigitalOcean](http://digitalocean.com/) or (AWS)[https://aws.amazon.com] **Ubuntu 16.04** Virtual Machine
+- [DigitalOcean](http://digitalocean.com/) or [AWS](https://aws.amazon.com) **Ubuntu 16.04** Virtual Machine
 - A [GitHub](https://github.com) account
 
 ### Course Objectives
