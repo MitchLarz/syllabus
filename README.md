@@ -51,19 +51,19 @@ Supplementary information for the course is available on WSU Online at [https://
 
 ### Course Outline
 
-* Week 01 - Welcome to Class & Overview of Web Architecture and Technologies
+* Week 01-02 - Welcome to Class & Overview of Web Architecture and Technologies
   * Assignments - PHP Setup and Essentials 
-* Week 02 - More PHP Essentials
+* Week 03 - More PHP Essentials
   * Assignments - Advanced PHP Server-side Programming
-* Week 03 - Web Pages via Twig
+* Week 04 - Web Pages via Twig
   * Assignments - Simple web sites 
-* Weeks 04-06 - HTML5, CSS3, jQuery and Bootstrap
+* Weeks 05-07 - HTML5, CSS3, jQuery and Bootstrap
   * Assignments - Learning Bootstrap and form validation
-* Weeks 07-08 - PHP & MySQL
+* Weeks 08-09 - PHP & MySQL
   * Assignments - Setting up and Interacting with MySQL
-* Weeks 09-10 - PHP Sessions and Security
+* Weeks 10-11 - PHP Sessions and Security
   * Assignments - Sessions and Security
-* Weeks 11-14 - Final Project
+* Weeks 12-14 - Final Project
   * Assignments - Design, Beta, Deliverable 
 
 ### Course Fee Statement
